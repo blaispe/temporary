@@ -1,0 +1,768 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "bc057dd0-e92c-4ab8-96b4-be53eac9ff53")
+	(paper "A3")
+	(title_block
+		(title "RCG- REMOTE CONTROL SYSTEM")
+		(date "2026-07-19")
+		(rev "3.0")
+		(company "AUTHOR - BIAGIO PEPE ")
+	)
+	(lib_symbols
+		(symbol "Library:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(show_name yes)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(show_name yes)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name yes)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name yes)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(show_name yes)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "POWER SUPPLY"
+		(exclude_from_sim no)
+		(at 190.246 141.224 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 2.54 2.54)
+				(thickness 0.508)
+			)
+		)
+		(uuid "224b709c-5808-4f89-a86a-e9cd82c5cc65")
+	)
+	(text "DISPLAY +ENCODER"
+		(exclude_from_sim no)
+		(at 280.67 66.802 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 2.54 2.54)
+				(thickness 0.508)
+			)
+		)
+		(uuid "37c73394-f85e-4c44-9ab4-74b3b0acc90c")
+	)
+	(text "USB-CONNECTION\n\n"
+		(exclude_from_sim no)
+		(at 91.44 71.12 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 2.54 2.54)
+				(thickness 0.508)
+			)
+		)
+		(uuid "7ad79b47-e287-4eb4-858d-78e668c80f71")
+	)
+	(text "SD_INTERFACE_BP2025 - Rev 1.0"
+		(exclude_from_sim no)
+		(at 283.972 138.938 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 2.54 2.54)
+				(thickness 0.508)
+			)
+		)
+		(uuid "87789854-e5d9-444f-8ae0-6322f258be0f")
+	)
+	(text "ESP32-MCU\n"
+		(exclude_from_sim no)
+		(at 188.468 66.802 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 2.54 2.54)
+				(thickness 0.508)
+			)
+		)
+		(uuid "94003652-0cfd-4809-8ff5-2448998fe51f")
+	)
+	(text "ISOLATION\n"
+		(exclude_from_sim no)
+		(at 93.218 135.382 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 2.54 2.54)
+				(thickness 0.508)
+			)
+		)
+		(uuid "9f36f697-70a9-4051-98b0-ef4692aa5e8d")
+	)
+	(text "DIGITAL BOARD"
+		(exclude_from_sim no)
+		(at 192.532 41.402 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 1.016)
+			)
+		)
+		(uuid "b5ef168e-466e-433f-a199-24dacd14e3a4")
+	)
+	(symbol
+		(lib_id "Library:MountingHole")
+		(at 176.53 250.19 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ae45192-e5c3-4398-b4a4-6c9135c74743")
+		(property "Reference" "H1"
+			(at 179.07 248.9199 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MH"
+			(at 179.07 251.4599 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:MountingHole_2.2mm_M2_DIN965_Pad"
+			(at 176.53 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 176.53 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "ecg"
+				(path "/bc057dd0-e92c-4ab8-96b4-be53eac9ff53"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Library:MountingHole")
+		(at 190.5 250.19 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "17d83576-3a0a-4c1b-b00e-b0f638ef7f3a")
+		(property "Reference" "H2"
+			(at 193.04 248.9199 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MH"
+			(at 193.04 251.4599 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:MountingHole_2.2mm_M2_DIN965_Pad"
+			(at 190.5 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 190.5 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 190.5 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "ecg"
+				(path "/bc057dd0-e92c-4ab8-96b4-be53eac9ff53"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Library:MountingHole")
+		(at 201.93 250.19 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "29753ed4-5c18-4cef-930a-84716f24fdbe")
+		(property "Reference" "H3"
+			(at 204.47 248.9199 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MH"
+			(at 204.47 251.4599 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:MountingHole_2.2mm_M2_DIN965_Pad"
+			(at 201.93 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 201.93 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 201.93 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "ecg"
+				(path "/bc057dd0-e92c-4ab8-96b4-be53eac9ff53"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Library:MountingHole")
+		(at 215.9 250.19 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fca48ea9-b644-4692-8592-3836bcb35ffd")
+		(property "Reference" "H4"
+			(at 218.44 248.9199 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MH"
+			(at 218.44 251.4599 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Library:MountingHole_2.2mm_M2_DIN965_Pad"
+			(at 215.9 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 215.9 250.19 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "ecg"
+				(path "/bc057dd0-e92c-4ab8-96b4-be53eac9ff53"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 245.11 148.59)
+		(size 76.2 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "1f13f2b0-6456-4c59-bf49-1399b3b309d8")
+		(property "Sheetname" "SD_INTERFACE_BP2025 â€“ Rev 1.0"
+			(at 245.11 147.8784 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sdcard.kicad_sch"
+			(at 245.11 187.2746 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ecg"
+				(path "/bc057dd0-e92c-4ab8-96b4-be53eac9ff53"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 140.97)
+		(size 78.74 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "47d887ac-5513-405d-b87e-bbc8cf99d7a9")
+		(property "Sheetname" "Isolation"
+			(at 54.61 140.2584 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Isolation.kicad_sch"
+			(at 54.61 188.5446 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ecg"
+				(path "/bc057dd0-e92c-4ab8-96b4-be53eac9ff53"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 71.12)
+		(size 73.66 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9edf493b-9552-40f9-8b1d-293c98443976")
+		(property "Sheetname" "mcu-esp32"
+			(at 152.4 70.4084 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 152.4 117.4246 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ecg"
+				(path "/bc057dd0-e92c-4ab8-96b4-be53eac9ff53"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 55.88 73.66)
+		(size 73.66 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bf0ebf92-99bf-4d3d-a06b-997e15b48d64")
+		(property "Sheetname" "USB"
+			(at 55.88 72.9484 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usbconn.kicad_sch"
+			(at 55.88 117.4246 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ecg"
+				(path "/bc057dd0-e92c-4ab8-96b4-be53eac9ff53"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 243.84 71.12)
+		(size 77.47 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d06020d7-224c-424e-8b3c-2c1f1863126f")
+		(property "Sheetname" "display"
+			(at 243.84 70.4084 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display.kicad_sch"
+			(at 243.84 117.4246 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ecg"
+				(path "/bc057dd0-e92c-4ab8-96b4-be53eac9ff53"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 146.05)
+		(size 76.2 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e47766b9-77eb-4cbf-bdc2-f4bc9b876199")
+		(property "Sheetname" "Power Supply"
+			(at 152.4 145.3384 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_Supply.kicad_sch"
+			(at 152.4 187.2746 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ecg"
+				(path "/bc057dd0-e92c-4ab8-96b4-be53eac9ff53"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

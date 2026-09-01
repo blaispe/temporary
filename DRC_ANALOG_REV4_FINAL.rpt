@@ -1,0 +1,913 @@
+** Drc report for ecg.kicad_pcb **
+** Created on 2026-09-01T02:16:50 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 297 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: vincoli impostazioni scheda serigrafia; warning
+    @(81.0000 mm, 53.0000 mm): Rectangle on Edge.Cuts
+    @(177.2500 mm, 53.4000 mm): Reference field of H2
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: vincoli impostazioni scheda serigrafia; warning
+    @(81.0000 mm, 53.0000 mm): Rectangle on Edge.Cuts
+    @(83.7500 mm, 52.9000 mm): Reference field of H1
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(109.2500 mm, 56.5000 mm): Footprint R54
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(105.1375 mm, 81.5000 mm): Footprint R9
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(109.0000 mm, 86.7500 mm): Footprint R18
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(120.3375 mm, 86.6500 mm): Footprint R21
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(160.7500 mm, 68.0000 mm): Footprint C95
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(116.3875 mm, 89.5000 mm): Footprint C30
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(167.0875 mm, 82.7507 mm): Footprint C57
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(112.5875 mm, 81.5000 mm): Footprint R13
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(116.3875 mm, 81.5000 mm): Footprint R8
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(116.8375 mm, 61.5000 mm): Footprint R48
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(89.3375 mm, 66.5000 mm): Footprint C39
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(132.5000 mm, 89.4000 mm): Footprint R23
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(101.5875 mm, 59.0000 mm): Footprint R51
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(109.0000 mm, 84.0000 mm): Footprint C22
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(120.6375 mm, 64.0000 mm): Footprint C44
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(116.8375 mm, 66.7500 mm): Footprint R37
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(168.7500 mm, 73.4875 mm): Footprint C103
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(116.3875 mm, 86.7500 mm): Footprint R22
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(149.0000 mm, 68.0000 mm): Footprint C100
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(168.7500 mm, 78.2500 mm): Footprint C91
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(97.5875 mm, 61.5000 mm): Footprint R52
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(109.3375 mm, 66.7500 mm): Footprint R39
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(128.3875 mm, 86.6500 mm): Footprint R15
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(153.0000 mm, 68.0000 mm): Footprint C86
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(166.5000 mm, 78.2000 mm): Footprint R66
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(144.7000 mm, 71.0000 mm): Footprint R65
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(160.7500 mm, 65.2500 mm): Footprint C101
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(120.5875 mm, 66.7500 mm): Footprint R42
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(93.6375 mm, 61.5000 mm): Footprint C49
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(105.5329 mm, 63.9640 mm): Footprint C42
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(132.5000 mm, 91.8903 mm): Footprint R24
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(105.5096 mm, 61.5011 mm): Footprint R45
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(124.3875 mm, 92.0000 mm): Footprint R30
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(113.0875 mm, 61.5000 mm): Footprint R43
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(153.0000 mm, 65.2500 mm): Footprint C90
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(126.7625 mm, 78.5000 mm): Footprint R11
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(97.6375 mm, 66.7500 mm): Footprint C36
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(149.0000 mm, 65.2500 mm): Footprint C92
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(128.3875 mm, 84.0000 mm): Footprint C33
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(120.3375 mm, 92.0000 mm): Footprint R25
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(89.3375 mm, 69.2500 mm): Footprint R34
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(135.3375 mm, 78.5000 mm): Footprint R19
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(120.7500 mm, 61.5000 mm): Footprint R47
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(101.6375 mm, 61.5000 mm): Footprint C48
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(148.8875 mm, 90.9138 mm): Footprint C62
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(145.0000 mm, 68.0000 mm): Footprint C74
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(160.7500 mm, 71.0000 mm): Footprint C84
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(143.7125 mm, 85.1750 mm): Footprint C66
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(160.7500 mm, 73.4875 mm): Footprint R67
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(175.0875 mm, 82.7507 mm): Footprint C98
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(124.3875 mm, 81.5000 mm): Footprint R12
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(112.5875 mm, 86.7500 mm): Footprint R17
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(143.0000 mm, 72.8000 mm): Footprint C69
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(101.6260 mm, 63.9737 mm): Footprint C43
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(101.5875 mm, 66.7500 mm): Footprint R31
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(93.5875 mm, 66.7500 mm): Footprint R33
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(124.3875 mm, 86.6500 mm): Footprint R16
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(113.0875 mm, 66.7500 mm): Footprint R38
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(132.5000 mm, 81.5000 mm): Footprint C32
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(116.3875 mm, 92.0000 mm): Footprint R26
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(101.4500 mm, 56.2500 mm): Footprint R49
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(144.8875 mm, 65.2500 mm): Footprint C97
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(146.1625 mm, 85.1750 mm): Footprint C63
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(168.7500 mm, 68.0000 mm): Footprint C96
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(89.3375 mm, 61.5000 mm): Footprint R35
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(109.3875 mm, 59.0000 mm): Footprint C46
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(132.5000 mm, 84.0000 mm): Footprint R20
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(105.1375 mm, 84.0000 mm): Footprint C23
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(149.1125 mm, 88.2500 mm): Footprint C65
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(131.0125 mm, 78.5000 mm): Footprint C24
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(128.3875 mm, 89.5000 mm): Footprint C29
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(161.7500 mm, 89.0000 mm): Footprint C58
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(136.7500 mm, 81.5000 mm): Footprint R27
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(164.7500 mm, 68.0000 mm): Footprint C85
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(113.1375 mm, 59.0000 mm): Footprint C51
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(156.9422 mm, 65.2500 mm): Footprint C89
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(128.3875 mm, 92.0000 mm): Footprint R29
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(168.7500 mm, 65.2500 mm): Footprint C102
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(89.3375 mm, 64.0000 mm): Footprint R36
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(101.0875 mm, 81.5000 mm): Footprint R10
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(113.0000 mm, 56.5000 mm): Footprint R53
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(168.7500 mm, 71.0000 mm): Footprint C99
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(93.3875 mm, 69.2500 mm): Footprint C37
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(109.0000 mm, 81.5000 mm): Footprint R14
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(112.5875 mm, 84.0000 mm): Footprint C27
+[lib_footprint_mismatch]: I'impronta 'C_0805_2012Metric_Pad1.18x1.45mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(156.2500 mm, 89.7125 mm): Footprint C76
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(97.6758 mm, 64.0015 mm): Footprint R46
+[lib_footprint_mismatch]: I'impronta 'C_0805_2012Metric_Pad1.18x1.45mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(158.7500 mm, 89.7125 mm): Footprint C78
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(153.1375 mm, 88.2500 mm): Footprint C80
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(164.7500 mm, 65.2500 mm): Footprint C88
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(109.3375 mm, 61.5000 mm): Footprint R44
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(116.3875 mm, 84.0000 mm): Footprint C26
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(120.3375 mm, 81.5338 mm): Footprint R7
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(109.3875 mm, 64.0000 mm): Footprint C41
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(164.7500 mm, 71.0000 mm): Footprint C83
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(157.0000 mm, 68.0000 mm): Footprint C87
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(97.5875 mm, 59.0000 mm): Footprint R50
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(164.7500 mm, 73.4875 mm): Footprint C93
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(132.5000 mm, 86.6500 mm): Footprint C28
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(97.7500 mm, 69.2500 mm): Footprint R32
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(120.3375 mm, 89.5000 mm): Footprint C35
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(153.0000 mm, 71.0000 mm): Footprint C94
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(124.3875 mm, 84.0000 mm): Footprint C20
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(124.3875 mm, 89.5000 mm): Footprint C34
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(124.5875 mm, 66.7500 mm): Footprint R41
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(105.6375 mm, 59.0000 mm): Footprint C47
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(116.8875 mm, 59.0000 mm): Footprint C50
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(93.6375 mm, 64.0000 mm): Footprint C38
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(116.8875 mm, 64.0000 mm): Footprint C45
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(113.1375 mm, 64.0000 mm): Footprint C40
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(120.3375 mm, 84.0000 mm): Footprint C21
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(136.7500 mm, 84.0000 mm): Footprint R28
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(112.5875 mm, 89.5000 mm): Footprint C31
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(128.3875 mm, 81.5000 mm): Footprint C25
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(105.5000 mm, 66.7500 mm): Footprint R40
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(162.7000 mm, 82.7507 mm): Footprint R68
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(156.3625 mm, 68.0000 mm): Footprint C72
+[lib_footprint_mismatch]: I'impronta 'C_0805_2012Metric_Pad1.18x1.45mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(156.0375 mm, 71.2500 mm): Footprint C71
+[lib_footprint_mismatch]: I'impronta 'C_0805_2012Metric_Pad1.18x1.45mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(160.5375 mm, 71.2500 mm): Footprint C73
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(154.0000 mm, 79.0000 mm): Footprint C82
+[lib_footprint_mismatch]: I'impronta 'C_0805_2012Metric_Pad1.18x1.45mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(160.5375 mm, 68.0000 mm): Footprint C79
+[lib_footprint_mismatch]: I'impronta 'C_0805_2012Metric_Pad1.18x1.45mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(154.0000 mm, 75.7500 mm): Footprint C81
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(153.8625 mm, 88.7500 mm): Footprint C61
+[lib_footprint_mismatch]: I'impronta 'C_0805_2012Metric_Pad1.18x1.45mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(151.7875 mm, 71.2500 mm): Footprint C67
+[lib_footprint_mismatch]: I'impronta 'R_0603_1608Metric_Pad0.98x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(163.4125 mm, 82.7500 mm): Footprint R63
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(151.6125 mm, 86.2500 mm): Footprint C70
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(155.8625 mm, 86.2500 mm): Footprint C64
+[lib_footprint_mismatch]: I'impronta 'C_1206_3216Metric_Pad1.33x1.80mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(154.0000 mm, 82.2500 mm): Footprint C77
+[lib_footprint_mismatch]: I'impronta 'C_0603_1608Metric_Pad1.08x0.95mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(163.1125 mm, 79.3625 mm): Footprint C60
+[lib_footprint_mismatch]: I'impronta 'C_0805_2012Metric_Pad1.18x1.45mm_HandSolder' non corrisponde alla copia nella libreria 'Library'
+    Local override; warning
+    @(151.7875 mm, 68.0000 mm): Footprint C68
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(109.2500 mm, 55.2500 mm): Reference field of R54
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(104.2500 mm, 80.0000 mm): Reference field of R9
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(109.0000 mm, 85.5000 mm): Reference field of R18
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(120.2500 mm, 85.4000 mm): Reference field of R21
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(160.7500 mm, 66.7500 mm): Reference field of C95
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(116.3934 mm, 88.1323 mm): Reference field of C30
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(167.4500 mm, 81.5007 mm): Reference field of C57
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(113.2500 mm, 80.2500 mm): Reference field of R13
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(116.3825 mm, 80.1639 mm): Reference field of R8
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(116.8375 mm, 60.3324 mm): Reference field of R48
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(89.4500 mm, 65.2500 mm): Reference field of C39
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(132.5000 mm, 88.1500 mm): Reference field of R23
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(110.0176 mm, 69.8275 mm): Reference field of D13
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(101.4500 mm, 57.7500 mm): Reference field of R51
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(109.0000 mm, 82.8091 mm): Reference field of C22
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(120.6375 mm, 62.7500 mm): Reference field of C44
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(116.8375 mm, 65.5000 mm): Reference field of R37
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(168.8476 mm, 72.4172 mm): Reference field of C103
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(116.3875 mm, 85.5000 mm): Reference field of R22
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(149.0000 mm, 66.7500 mm): Reference field of C100
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(168.7500 mm, 75.9125 mm): Reference field of C91
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(96.7500 mm, 60.2500 mm): Reference field of R52
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(107.7500 mm, 78.5760 mm): Reference field of D8
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(109.3375 mm, 65.5000 mm): Reference field of R39
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(128.3875 mm, 85.4000 mm): Reference field of R15
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(153.0000 mm, 66.7500 mm): Reference field of C86
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(166.5000 mm, 75.9125 mm): Reference field of R66
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(170.9875 mm, 81.5000 mm): Reference field of FB2
+[text_thickness]: Spessore testo fuori campo (vincoli impostazioni scheda spessore testo serigrafia spess. min 0,0800 mm; effettivo 0,0750 mm)
+    Rule: vincoli impostazioni scheda spessore testo serigrafia; warning
+    @(171.2500 mm, 84.0000 mm): Value field of FB2 (Ferrite BLM18AG601SN1D)
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,3000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(171.2500 mm, 84.0000 mm): Value field of FB2 (Ferrite BLM18AG601SN1D)
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(145.2500 mm, 69.5000 mm): Reference field of R65
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(92.7500 mm, 74.0000 mm): Reference field of CONN2
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(91.2500 mm, 77.5000 mm): Value field of CONN2 (B28B-PHDSS-B (LF)(SN) - (28 PIN ELECTRODES CONNECTOR))
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(160.7500 mm, 64.0000 mm): Reference field of C101
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(120.5875 mm, 65.5000 mm): Reference field of R42
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(93.6375 mm, 60.2500 mm): Reference field of C49
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(106.5000 mm, 62.7500 mm): Reference field of C42
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(166.0701 mm, 57.2500 mm): Reference field of TP6
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(131.5000 mm, 90.6403 mm): Reference field of R24
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(105.5197 mm, 60.3333 mm): Reference field of R45
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(124.3875 mm, 90.7500 mm): Reference field of R30
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(113.0875 mm, 60.2500 mm): Reference field of R43
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(152.8625 mm, 64.0000 mm): Reference field of C90
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(126.7860 mm, 77.2010 mm): Reference field of R11
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(163.0875 mm, 75.2500 mm): Reference field of OSC1
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(163.1814 mm, 80.6063 mm): Value field of OSC1 (2.048MHz)
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(97.6375 mm, 65.5000 mm): Reference field of C36
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(149.0485 mm, 64.1424 mm): Reference field of C92
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(128.4240 mm, 82.7500 mm): Reference field of C33
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(120.5000 mm, 90.7500 mm): Reference field of R25
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(89.2624 mm, 68.0795 mm): Reference field of R34
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(135.3375 mm, 77.3064 mm): Reference field of R19
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(120.7500 mm, 60.2500 mm): Reference field of R47
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(101.6382 mm, 60.3593 mm): Reference field of C48
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(146.7500 mm, 89.5000 mm): Reference field of C62
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(145.0000 mm, 66.7500 mm): Reference field of C74
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(160.5858 mm, 69.7883 mm): Reference field of C84
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(113.7377 mm, 69.8260 mm): Reference field of D12
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(142.2825 mm, 85.1750 mm): Reference field of C66
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(144.5000 mm, 74.2500 mm): Value field of NT1 (BIAS_FB)
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(101.7500 mm, 78.5760 mm): Reference field of D4
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(160.7500 mm, 72.2500 mm): Reference field of R67
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(174.9500 mm, 81.5007 mm): Reference field of C98
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(124.3875 mm, 80.2500 mm): Reference field of R12
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(112.7635 mm, 85.4802 mm): Reference field of R17
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(104.0000 mm, 78.5760 mm): Reference field of D3
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(101.4885 mm, 62.7237 mm): Reference field of C43
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(104.0000 mm, 69.9143 mm): Reference field of D9
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(101.5875 mm, 65.5000 mm): Reference field of R31
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(93.5875 mm, 65.5000 mm): Reference field of R33
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(124.3875 mm, 85.4000 mm): Reference field of R16
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(113.0000 mm, 65.5000 mm): Reference field of R38
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(132.5000 mm, 80.2500 mm): Reference field of C32
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(116.5500 mm, 90.7500 mm): Reference field of R26
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(151.5000 mm, 57.2500 mm): Reference field of TP3
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(101.4500 mm, 54.8200 mm): Reference field of R49
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(145.0000 mm, 64.0000 mm): Reference field of C97
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(145.0000 mm, 85.1750 mm): Reference field of C63
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(168.7500 mm, 66.7625 mm): Reference field of C96
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(89.3375 mm, 60.2500 mm): Reference field of R35
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(109.2500 mm, 57.7500 mm): Reference field of C46
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(132.5000 mm, 82.7500 mm): Reference field of R20
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(140.2500 mm, 67.2500 mm): Reference field of NT2
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(139.7500 mm, 68.7500 mm): Value field of NT2 (BIAS_ELEC)
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(105.1375 mm, 82.8625 mm): Reference field of C23
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(147.8696 mm, 86.9190 mm): Reference field of C65
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(131.0125 mm, 77.2500 mm): Reference field of C24
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(128.4142 mm, 88.2840 mm): Reference field of C29
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(161.7500 mm, 86.7875 mm): Reference field of C58
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(136.0000 mm, 80.2500 mm): Reference field of R27
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(164.7500 mm, 66.7625 mm): Reference field of C85
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(161.2134 mm, 57.2500 mm): Reference field of TP5
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(113.0000 mm, 57.7500 mm): Reference field of C51
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(156.7500 mm, 63.7500 mm): Reference field of C89
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(128.3875 mm, 90.7500 mm): Reference field of R29
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(168.7500 mm, 64.0671 mm): Reference field of C102
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(89.3375 mm, 62.7500 mm): Reference field of R36
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(101.0875 mm, 80.0700 mm): Reference field of R10
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(113.0000 mm, 55.0700 mm): Reference field of R53
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(141.7865 mm, 57.2500 mm): Reference field of TP1
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(146.6433 mm, 57.2500 mm): Reference field of TP2
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(168.7500 mm, 69.5000 mm): Reference field of C99
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(156.7500 mm, 69.7500 mm): Reference field of FB3
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(93.4050 mm, 68.1070 mm): Reference field of C37
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(108.2500 mm, 80.2500 mm): Reference field of R14
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(119.7377 mm, 69.8260 mm): Reference field of D16
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(112.5875 mm, 82.7859 mm): Reference field of C27
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(156.0000 mm, 87.5000 mm): Reference field of C76
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(139.7500 mm, 97.4982 mm): Reference field of FPC2
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(130.0000 mm, 102.5000 mm): Value field of FPC2 (AD-CONNECTOR-ANALOG)
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(116.2355 mm, 78.5760 mm): Reference field of D1
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(115.9125 mm, 69.8260 mm): Reference field of D11
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(97.6758 mm, 62.7515 mm): Reference field of R46
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(156.3567 mm, 57.2500 mm): Reference field of TP4
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(158.7500 mm, 87.4250 mm): Reference field of C78
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(153.2500 mm, 87.0000 mm): Reference field of C80
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(164.7331 mm, 64.0332 mm): Reference field of C88
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(109.3375 mm, 60.2500 mm): Reference field of R44
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(116.3875 mm, 82.7500 mm): Reference field of C26
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(114.0000 mm, 78.4490 mm): Reference field of D2
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(121.0000 mm, 80.0000 mm): Reference field of R7
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(109.3875 mm, 62.7500 mm): Reference field of C41
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(164.7500 mm, 69.5000 mm): Reference field of C83
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(156.9422 mm, 66.9277 mm): Reference field of C87
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(97.5000 mm, 57.7500 mm): Reference field of R50
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(101.5927 mm, 69.8260 mm): Reference field of D10
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(107.5176 mm, 69.8275 mm): Reference field of D14
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(164.7500 mm, 72.2500 mm): Reference field of C93
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(170.9269 mm, 57.2500 mm): Reference field of TP7
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(133.0000 mm, 85.2500 mm): Reference field of C28
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(121.9125 mm, 69.8260 mm): Reference field of D15
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(110.2500 mm, 78.5760 mm): Reference field of D7
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(97.7506 mm, 68.0993 mm): Reference field of R32
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(120.2578 mm, 88.1245 mm): Reference field of C35
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(152.9964 mm, 69.6281 mm): Reference field of C94
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(124.3510 mm, 82.8163 mm): Reference field of C20
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(124.9151 mm, 88.1245 mm): Reference field of C34
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(124.5875 mm, 65.5000 mm): Reference field of R41
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(119.7500 mm, 78.5760 mm): Reference field of D6
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(105.5624 mm, 57.8781 mm): Reference field of C47
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(116.8375 mm, 57.7500 mm): Reference field of C50
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(93.6375 mm, 62.7500 mm): Reference field of C38
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(117.2500 mm, 62.7500 mm): Reference field of C45
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(113.0821 mm, 62.7500 mm): Reference field of C40
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(120.4500 mm, 82.7500 mm): Reference field of C21
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(137.2500 mm, 82.7500 mm): Reference field of R28
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(112.5898 mm, 88.1323 mm): Reference field of C31
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(128.3510 mm, 80.2500 mm): Reference field of C25
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(105.5218 mm, 65.5000 mm): Reference field of R40
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(122.5000 mm, 78.5760 mm): Reference field of D5
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(162.7000 mm, 81.5007 mm): Reference field of R68
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(156.2500 mm, 66.5000 mm): Reference field of C72
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(156.0375 mm, 69.7500 mm): Reference field of C71
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(160.5000 mm, 69.7500 mm): Reference field of C73
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(154.1375 mm, 77.5000 mm): Reference field of C82
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(160.5375 mm, 66.5000 mm): Reference field of C79
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(154.0000 mm, 74.0000 mm): Reference field of C81
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(153.8625 mm, 87.5000 mm): Reference field of C61
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(151.0000 mm, 69.7500 mm): Reference field of C67
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(163.5000 mm, 81.5000 mm): Reference field of R63
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(151.6125 mm, 84.8200 mm): Reference field of C70
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(155.7500 mm, 85.0000 mm): Reference field of C64
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(154.0000 mm, 80.5000 mm): Reference field of C77
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(163.1125 mm, 78.1125 mm): Reference field of C60
+[text_height]: Altezza testo fuori campo (vincoli impostazioni scheda altezza testo serigrafia alt. min 0,8000 mm; effettivo 0,4000 mm)
+    Rule: vincoli impostazioni scheda altezza testo serigrafia; warning
+    @(151.7875 mm, 66.5000 mm): Reference field of C68
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - PTH inside courtyard
+    - NPTH inside courtyard
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
